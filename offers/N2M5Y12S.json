@@ -1,0 +1,42 @@
+{
+  "client": "Иван",
+  "project": "BELHOME 72",
+  "area": "72",
+  "terrace": "24",
+  "bedrooms": "2",
+  "price": 3800000,
+  "oldPrice": 4100000,
+  "deadline": "25 сентября",
+  "gift": "Хозблок стоимостью 130 000 ₽ — в подарок",
+  "hero": "https://raw.githubusercontent.com/sersevvlad-afk/belhome-offer/main/assets/belhome-hero-1789716617943-wy6h.jpg?v=1789716621151",
+  "plan": "https://raw.githubusercontent.com/sersevvlad-afk/belhome-offer/main/assets/belhome-plan-1789716622404-aga6.png?v=1789716623882",
+  "factory": "assets/factory.jpg",
+  "wall": "assets/wall.jpg",
+  "manager": "Александр",
+  "phone": "+79990000000",
+  "whatsapp": "+79990000000",
+  "years": "5 лет",
+  "objects": "250+",
+  "production": "1000 м²",
+  "warranty": "10 лет",
+  "calc": [
+    [
+      "Дом BELHOME 72",
+      3570000
+    ],
+    [
+      "Терраса 24 м²",
+      240000
+    ],
+    [
+      "Доставка",
+      130000
+    ],
+    [
+      "Скидка BELHOME",
+      -140000
+    ]
+  ],
+  "savedAt": "2026-09-18T07:30:30.455Z",
+  "offerId": "N2M5Y12S"
+}
