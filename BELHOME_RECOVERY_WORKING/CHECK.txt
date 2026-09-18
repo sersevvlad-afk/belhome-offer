@@ -1,0 +1,3 @@
+BELHOME RECOVERY
+index.html and studio.html must each be about 2.5 MB.
+If GitHub shows 2 Bytes or 1 line, the wrong/empty file was uploaded.
