@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+<rect width="1200" height="760" fill="#f1efe9"/>
+<g fill="none" stroke="#25292a" stroke-width="10">
+<rect x="80" y="80" width="1040" height="600"/>
+<line x1="660" y1="80" x2="660" y2="680"/>
+<line x1="660" y1="380" x2="1120" y2="380"/>
+<line x1="880" y1="380" x2="880" y2="680"/>
+<line x1="80" y1="490" x2="660" y2="490"/>
+</g>
+<g font-family="Arial, sans-serif" fill="#25292a" text-anchor="middle">
+<text x="370" y="280" font-size="44" font-weight="700">КУХНЯ-ГОСТИНАЯ</text><text x="370" y="330" font-size="30">27 м²</text>
+<text x="890" y="225" font-size="40" font-weight="700">СПАЛЬНЯ</text><text x="890" y="272" font-size="28">13 м²</text>
+<text x="770" y="535" font-size="32" font-weight="700">С/У</text><text x="770" y="575" font-size="25">6 м²</text>
+<text x="1000" y="535" font-size="32" font-weight="700">СПАЛЬНЯ</text><text x="1000" y="575" font-size="25">11 м²</text>
+<text x="370" y="585" font-size="36" font-weight="700">ТЕРРАСА</text><text x="370" y="630" font-size="27">24 м²</text>
+</g>
+</svg>
