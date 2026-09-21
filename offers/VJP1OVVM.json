@@ -1,19 +1,19 @@
 {
-  "client": "Иван",
-  "project": "BELHOME 72",
-  "area": "72",
-  "terrace": "24",
+  "client": "Владислав ",
+  "project": "BELHOME 70",
+  "area": "55",
+  "terrace": "15",
   "bedrooms": "2",
-  "price": 3800000,
-  "oldPrice": 4100000,
+  "price": 3610830,
+  "oldPrice": 3910830,
   "deadline": "25 сентября",
-  "gift": "Выезд на участок и схема размещения дома — в подарок",
-  "hero": "assets/house.jpg",
-  "plan": "assets/plan-demo.svg",
+  "gift": "",
+  "hero": "https://raw.githubusercontent.com/sersevvlad-afk/belhome-offer/main/assets/belhome-hero-1789973076244-528e.webp?v=1789973083322",
+  "plan": "https://raw.githubusercontent.com/sersevvlad-afk/belhome-offer/main/assets/belhome-plan-1789973137594-0ae8.jpg?v=1789973144254",
   "factory": "assets/factory.jpg",
   "wall": "assets/wall.jpg",
-  "manager": "Александр",
-  "phone": "+79990000000",
+  "manager": "Валерия ",
+  "phone": "+79963217871",
   "whatsapp": "+79990000000",
   "years": "5 лет",
   "objects": "250+",
@@ -22,19 +22,11 @@
   "calc": [
     [
       "Дом BELHOME 72",
-      3570000
-    ],
-    [
-      "Терраса 24 м²",
-      240000
-    ],
-    [
-      "Доставка",
-      130000
+      3910830
     ],
     [
       "Скидка BELHOME",
-      -140000
+      -300000
     ]
   ],
   "note": "Персональные условия рассчитаны для выбранной комплектации.",
@@ -84,5 +76,5 @@
     ]
   ],
   "offerId": "VJP1OVVM",
-  "savedAt": "2026-09-21T06:38:48.972Z"
+  "savedAt": "2026-09-21T06:48:09.342Z"
 }
