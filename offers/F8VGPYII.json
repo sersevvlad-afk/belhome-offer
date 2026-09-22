@@ -3,7 +3,7 @@
   "project": "BELHOME 170",
   "area": "170",
   "terrace": "",
-  "bedrooms": "2",
+  "bedrooms": "",
   "price": 10800000,
   "oldPrice": 12500000,
   "deadline": "25 сентября",
@@ -14,19 +14,19 @@
   "wall": "assets/wall.jpg",
   "manager": "Валерия ",
   "phone": "+79963217871",
-  "whatsapp": "+79990000000",
+  "whatsapp": "",
   "years": "5 лет",
   "objects": "250+",
   "production": "1000 м²",
   "warranty": "10 лет",
   "calc": [
     [
-      "Дом BELHOME 72",
-      3910830
+      "Дом BELHOME 170",
+      12500000
     ],
     [
       "Скидка BELHOME",
-      -300000
+      -1700000
     ]
   ],
   "note": "Персональные условия рассчитаны для выбранной комплектации.",
@@ -76,5 +76,5 @@
     ]
   ],
   "offerId": "F8VGPYII",
-  "savedAt": "2026-09-22T08:38:02.569Z"
+  "savedAt": "2026-09-22T08:41:08.968Z"
 }
