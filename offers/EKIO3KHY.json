@@ -1,15 +1,15 @@
 {
-  "client": "Алексей ",
-  "project": "BELHOME 52,5",
-  "area": "35",
-  "terrace": "17,5",
+  "client": "Сергей",
+  "project": "баня BELHOME 96",
+  "area": "72",
+  "terrace": "24",
   "bedrooms": "",
-  "price": 2680000,
-  "oldPrice": 3250000,
-  "deadline": " 16 октября",
+  "price": 5913000,
+  "oldPrice": 6400000,
+  "deadline": " 5 ноября",
   "gift": "",
-  "hero": "https://raw.githubusercontent.com/sersevvlad-afk/belhome-offer/main/assets/belhome-hero-1791965809845-69cf.jpg?v=1791965817681",
-  "plan": "https://raw.githubusercontent.com/sersevvlad-afk/belhome-offer/main/assets/belhome-plan-1791966400599-ts5p.jpg?v=1791966409096",
+  "hero": "https://raw.githubusercontent.com/sersevvlad-afk/belhome-offer/main/assets/belhome-hero-1793089094843-3cv0.webp?v=1793089099068",
+  "plan": "https://raw.githubusercontent.com/sersevvlad-afk/belhome-offer/main/assets/belhome-plan-1793089146099-ieau.webp?v=1793089149408",
   "factory": "assets/factory.jpg",
   "wall": "assets/wall.jpg",
   "manager": "Валерия ",
@@ -21,12 +21,12 @@
   "warranty": "10 лет",
   "calc": [
     [
-      "Баня BELHOME 52,5",
-      3250000
+      "Баня BELHOME 96",
+      6400000
     ],
     [
       "Скидка BELHOME",
-      -570000
+      -487000
     ]
   ],
   "note": "Персональные условия рассчитаны для выбранной комплектации.",
@@ -76,5 +76,5 @@
     ]
   ],
   "offerId": "EKIO3KHY",
-  "savedAt": "2026-10-27T08:07:35.044Z"
+  "savedAt": "2026-10-27T08:26:12.660Z"
 }
